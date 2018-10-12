@@ -4,7 +4,7 @@
 In deze proefopdracht heb ik in unity een pong multieplayer gemaakt
 
 ## Software Anaylse
-Ik heb voor unity gekozen voor dit project omdat dit een taal is waar ik redelijk bekend mee ben. Een grote factor dat ik voor deze taal gekozen heb is omdat ik later met unity wil gaan werken, daar wordt ook veel gebruik gemaakt van unity.
+Ik heb voor unity gekozen voor dit project omdat dit een taal is waar ik redelijk bekend mee ben. Een grote factor dat ik voor deze taal gekozen heb is omdat ik later met unity wil gaan werken, er word tegenwordig veel gebruik gemaakt van unity.
 
 ## Leerdoelen
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
