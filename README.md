@@ -20,6 +20,6 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 |week 2 | game multieplayer maken | een werkende demo maken | <- + README schrijven |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+Welke bronnen heb ik gebruikt
 
 - [unity tutorials](https://unity3d.com/learn/tutorials/s/multiplayer-networking)
