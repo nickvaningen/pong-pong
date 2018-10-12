@@ -16,10 +16,10 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | uitzoeken wat ik moet doen | aan pong de game werken | library opzetten | in grid systeem rooms kiezen | rooms expanden |
-|week 2 | pathing van room naar room | <- | <- + README schrijven |
+|week 1 | uitzoeken wat ik moet doen | aan pong de game werken | aan pong de game werken | game multieplayer maken | game multieplayer maken |
+|week 2 | game multieplayer maken | een werkende demo maken | <- + README schrijven |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [Minesweeper Proefopdracht](https://github.com/Tommiee/Minesweeper)
+- [unity tutorials](https://unity3d.com/learn/tutorials/s/multiplayer-networking)
